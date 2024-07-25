@@ -1,4 +1,7 @@
-Welcome to the NextJS 13 base template bootstrapped using the `create-next-app`. This template supports TypeScript, but you can use normal JavaScript as well.
+Simple tabs animation with framer-motion.
+
+- on hover
+- on focus
 
 ## Getting Started
 
